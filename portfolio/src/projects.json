@@ -1,0 +1,32 @@
+{
+    "projects": [
+        {
+            "title": "Discover Our Parks",
+            "description": "DiscoverOurParks.com was founded and created by myself. Using Worpress as the CMS, I created a child theme and fully customized the look, feel and functionality of the site using CSS and JS. The next generation of the site, currently in development, utilizes Gatsby, React and Bootstrap to help provide a fast, smoother User Experience.",
+            "image": "https://github.com/jasonrmace/jasonrmace.github.io/raw/origin/images/dop1.png",
+            "link": "https://discoverourparks.com",
+            "linkText": "View this website"
+        },
+        {
+            "title": "Discover Our Parks Monthly Email Campaign",
+            "description": "Every month, I send out an email with articles, news and various other fun facts about our parks for DiscoverOurParks.com. Using MJML and HTML, I format the email to be viewed in multiple clients and I also ensure the email is responsive.",
+            "image": "https://github.com/jasonrmace/jasonrmace.github.io/raw/origin/images/dopEmailExample.png",
+            "link": "https://github.com/jasonrmace/discoverourparks-example-email",
+            "linkText": "View the code and final email"
+        },
+        {
+            "title": "Houston Astros Management Website",
+            "description": "This is an example site created for the Houston Astros to showcase the design and look of a new management website for coaches and staff to view player stats.",
+            "image": "https://github.com/jasonrmace/jasonrmace.github.io/raw/origin/images/AstrosPart2ScreenCapture.png",
+            "link": "https://codesandbox.io/s/jason-mace-part-2-oduuj",
+            "linkText": "View this project"
+        },
+        {
+            "title": "Houston Astros Player Information Image Mockup",
+            "description": "This is a web page mockup created for the Houston Astros to view player specific information, maintaining the given information in the top 1/3 of the pageview area.",
+            "image": "https://github.com/jasonrmace/jasonrmace.github.io/raw/origin/images/Desktop1920px.png",
+            "link": "https://github.com/jasonrmace/jasonrmace.github.io/raw/origin/images/Desktop1920px.png",
+            "linkText": "View this image"
+        }
+    ]
+}
