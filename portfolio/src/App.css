@@ -8,6 +8,7 @@ body {
 }
 .navbar {
     background-color: #033249 !important;
+    box-shadow: -5px 0 5px rgba( 0, 0, 0, 0.5 );
 }
 .navbar-dark .navbar-brand {
     color: #EFEDE8;
